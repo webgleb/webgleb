@@ -1,9 +1,8 @@
 ### Greetings! 👋
 
-- 🔭 I'm currently working as a front-end team leader
-- 🌱 I’m currently learning JAMStack solutions
+- 🔭 I'm currently working as a front-end team leader, and co-founder at [swipex.ua](https://swipex.ua/)
+- 🌱 I’m currently learning and looking to collaborate on JAMStack solutions
 - 🌱 I’m have a team to create SPA, SSR, PWA
-- 👯 I’m looking to collaborate on JAMStack solutions
 
 - 💬 Ask me about Next.js, React
 - 🔎 I'm looking for the new opportunities
